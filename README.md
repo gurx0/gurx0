@@ -31,6 +31,7 @@ I am Java Kotlin developer from Moskow
     <img src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg width="60" height="60"/>&nbsp
     <img src= https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg width="60" height="60"/>&nbsp;
     <img src= https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="60" height="60"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg width="60" height="60"/>&nbsp;
     <img src= https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg width="60" height="60"/>&nbsp;
     <img src= https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg width="60" height="60"/>&nbsp;
     <img src= https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg width="60" height="60"/>&nbsp;
