@@ -11,9 +11,14 @@
 </div>
 
 ---
+ ### :trophy: Achievements
+-  KS54 Hack **WINNER**
+-  Scientific conference "Unmanned technologies and devices" **WINNER**
+
+---
 
 ### 👨‍💼 About Me :
-I am Java Kotlin developer from Moskow
+I am Java Kotlin developer from Moskow. Сurrently studying for a degree in Information Systems and Programming. 18yo
 
 - 🖥️ I’m developing Android applications on Kotlin and Backend services on Java.
 
@@ -47,3 +52,5 @@ I am Java Kotlin developer from Moskow
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gurx0&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
