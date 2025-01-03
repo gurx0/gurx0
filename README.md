@@ -53,4 +53,4 @@ I am Java Kotlin developer from Moskow. Сurrently studying for a degree in Info
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gurx0&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurx0)](https://github.com/anuraghazra/github-readme-stats) -->
