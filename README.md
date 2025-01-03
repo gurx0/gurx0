@@ -1,19 +1,15 @@
-<div id="badges">
-    <a href="https://t.me/GORDOSTAMERIKI">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+<div align = "center">
+    <div id="header" align="center">
+      <img src="https://tenor.com/ru/view/kotlin-my-beloved-kotlin-my-beloved-gif-18373794183844739852.gif" width="200"/>
+    </div>
+        <a href="https://t.me/GORDOSTAMERIKI">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </div>
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=gurx0&style=flat-square&color=blue" alt=""/>
+    </div> 
 </div>
-
-<!--
-**gurx0/gurx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Technologies :
+    <div>
+        <img src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg width="40" height="40"/>&nbsp;
+    </div>
