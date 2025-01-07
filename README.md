@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💼 About Me :
-I am Java Kotlin developer from Moskow. Сurrently studying for a degree in Information Systems and Programming. 18yo
+I am Java Kotlin developer from Moscow. Сurrently studying for a degree in Information Systems and Programming.
 
 - 🖥️ I’m developing Android applications on Kotlin and Backend services on Java.
 
