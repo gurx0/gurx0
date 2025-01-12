@@ -51,7 +51,6 @@ I am Java Kotlin developer from Moscow. Сurrently studying for a degree in Info
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gurx0)](https://git.io/streak-stats)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurx0)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurx0)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gurx0)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurx0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=gurx0&theme=dark&hide_border=false)
