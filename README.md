@@ -2,7 +2,7 @@
     <div id="header" align="center">
       <img src="https://tenor.com/ru/view/kotlin-my-beloved-kotlin-my-beloved-gif-18373794183844739852.gif" width="400"/>
     </div>
-        <a href="https://t.me/GORDOSTAMERIKI">
+        <a href="https://t.me/ROSSIYANOMER1">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </div>
     <div align="center">
