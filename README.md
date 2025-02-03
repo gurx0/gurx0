@@ -1,32 +1,34 @@
 <div align = "center">
     <div id="header" align="center">
-      <img src="https://tenor.com/ru/view/kotlin-my-beloved-kotlin-my-beloved-gif-18373794183844739852.gif" width="400"/>
-    </div>
+        <h1>Alex Pankratov</h1> 
+        <h2>An Android developer from Moscow</h2> 
         <a href="https://t.me/ROSSIYANOMER1">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </div>
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=gurx0&style=flat-square&color=blue" alt=""/>
-    </div> 
 </div>
+
+---
+
+### 👨‍💼 About Me :
+I am interested in computer science, robotics, and professionally assemble computers.
+Сurrently working in "SAlfa" and studying for a degree in Information Systems and Programming.
+
+- :zap: 18 yo
+
+- 🖥️ Developing Android applications on Kotlin and Backend services on Java.
+
+- 💰 In free time assemble computers to order
+
+- 📖: I’m ready to develop in almost any field
 
 ---
  ### :trophy: Achievements
 -  KS54 Hack **WINNER**
 -  Scientific conference "Unmanned technologies and devices" **WINNER**
 
----
-
-### 👨‍💼 About Me :
-I am Java Kotlin developer from Moscow. Сurrently studying for a degree in Information Systems and Programming.
-
-- 🖥️ I’m developing Android applications on Kotlin and Backend services on Java.
-
-- 💰 In my free time I assemble computers to order
-
-- :zap: I’m ready to develop in almost any field
 
 ---
+
 ### :hammer_and_wrench: Languages and Technologies :
             
 <div>
