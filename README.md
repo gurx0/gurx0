@@ -18,9 +18,9 @@ I prefer to develop the backend part of Android applications and optimize highly
 
 - 🤖 Interested in computer science and robotic systems
 
-- 💰 Professionally assemble computers to order
+- 💰 Am able to professionally assemble computers to order
 
-- 📖: I’m ready to develop in almost any field and open to collaborations
+- 📖 I’m ready to develop in almost any field and open to collaborations
 
 ---
  ### :trophy: Achievements
