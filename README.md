@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💼 About Me :
-I prefer to develop the backend part of android applications and optimize highly loaded code.
+I prefer to develop the backend part of Android applications and optimize highly loaded code.
 Сurrently working in "SAlfa" and studying for a degree in Information Systems and Programming.
 
 - :zap: 18 yo
