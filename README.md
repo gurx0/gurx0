@@ -33,20 +33,19 @@ I prefer to develop the backend part of Android applications and optimize highly
             
 <div>
     <img src= https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg width="50" height="50"/>&nbsp
-    <img src= https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg width="50" height="50"/>&nbsp
+    <img src= https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg width="50" height="50"/>&nbsp;
     <img src= https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg width="50" height="50"/>&nbsp;
-    <img src= https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg width="50" height="50"/>&nbsp;
+    <img src= https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg width="50" height="50"/>&nbsp;
+    <img src = https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg width = "50" height="50" />&nbsp;
     <img src= https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg width="50" height="50"/>&nbsp;
-<!-- <img src= https://www.svgrepo.com/show/512125/file-ai-1761.svg width="50" height="50"/>&nbsp;
- -->
 </div>
 
 
