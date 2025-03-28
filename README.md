@@ -24,9 +24,9 @@ I prefer to develop the backend part of Android applications and optimize highly
 
 ---
  ### :trophy: Achievements
-- **WINNER** KS54 Hack 2025 
-- **WINNER** KS54 Hack 2024
-- **WINNER** Scientific conference "Unmanned technologies and devices"
+- 🥇 **1st** KS54 Hack 2025 
+- 🥇 **1st** KS54 Hack 2024
+- 🥇 **1st** Scientific conference "Unmanned technologies and devices"
 
 ---
 
